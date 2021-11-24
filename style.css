@@ -10,6 +10,12 @@ html {
   font-family: 'Montserrat', sans-serif;
   scroll-behavior: smooth;
 }
+.project_link{
+  color:red;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  font-size: large;
+}
 a {
   text-decoration: none;
 }
